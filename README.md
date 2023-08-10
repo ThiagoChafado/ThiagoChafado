@@ -1,8 +1,8 @@
-#Olá, me chamo Thiago Chafado Almeida
+#Hi, I'm Thiago Chafado Almeida
 
 
-- 🔭 Atualmente não trabalho na área
-- 🌱 Atualmente cursando Ciência da Computação - UFFS
+- 🔭 Currently an IT intern at UFFS
+- 🌱 Currently studying computer science at uffs
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagochafado)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
