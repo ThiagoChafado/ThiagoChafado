@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Back-end**
 
@@ -60,30 +60,30 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🏭 Production Planning & Inventory System
+###  Production Planning & Inventory System
 > Fullstack application for inventory management and production planning.
 
 `Java` `Quarkus` `React` `TailwindCSS` `PostgreSQL`
 
 ---
 
-### 🤖 Schema Extraction using AI — Bachelor's Thesis
+###  Schema Extraction using AI — Bachelor's Thesis
 > Automatic extraction and validation of data schemas from JSON files using Large Language Models (LLMs).
 
 `Python` `LLMs` `JSON`
 
 ---
 
-### ⚙️ REST API Development & Process Automation
+###  REST API Development & Process Automation
 > REST APIs with authentication, business rules and data validation. Automation of operational processes and enterprise system integration.
 
 `Node.js` `JavaScript` `PostgreSQL` `Docker` `Git`
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThiagoChafado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
